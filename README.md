@@ -1,2 +1,1 @@
-My first readme pre zero 
-"git pull"
+My first readme pre zero
